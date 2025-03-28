@@ -12,4 +12,4 @@ The project includes the following files:
 - "Analysis_TikTok.ipynb": code script for crawling data from social media platforms
 - "Preprocessing_data.jpynb": code script for preprocessing crawled data in order to use for later visualization
 
-*Note: "Analysis_TikTok.ipynb" and "Preprocessing_data.jpynb" are contained and stored in the "Script code (Social Media)" branch.
+*Note: "Analysis_TikTok.ipynb" and "Preprocessing_data.jpynb" are also contained inside "Dataset_Social Media.zip"
